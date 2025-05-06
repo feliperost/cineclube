@@ -5,7 +5,7 @@ Durante a pandemia, um grupo de 9 amigos decidiu criar um cineclube. A cada sema
 O dataframe completo está no arquivo cineclube.csv.
 
 ## Objetivo do projeto
-Inicialmente, o objetivo do projeto era praticar a análise exploratória de dados com dados de forma divertida, com dados de.
+Inicialmente, o objetivo do projeto era praticar a análise exploratória de dados com dados de forma divertida, com dados desse cineclube.
 Eventualmente, o projeto evoluiu, e está sendo utilizado para praticar conceitos de orientação a objetos aplicados a notebooks.
 
 ## Notebooks & Orientação a objetos
